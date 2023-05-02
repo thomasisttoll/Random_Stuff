@@ -1,0 +1,30 @@
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.exe.config
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.exe
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.pdb
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.exe
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.pdb
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete_Kudasai_USB_San.Properties.Resources.resources
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.GenerateResource.cache
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.exe.config
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.exe
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.pdb
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.AssemblyReference.cache
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete_Kudasai_USB_San.Properties.Resources.resources
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.GenerateResource.cache
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.CoreCompileInputs.cache
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.exe
+C:\Users\Moritz G\Documents\Thomas\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.pdb
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.exe.config
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.exe
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\bin\Debug\Yamete-Kudasai-USB-San.pdb
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete_Kudasai_USB_San.Properties.Resources.resources
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.GenerateResource.cache
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.exe
+C:\Users\thoma\Desktop\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\Yamete-Kudasai-USB-San\obj\Debug\Yamete-Kudasai-USB-San.pdb
