@@ -1,0 +1,8 @@
+C:\Users\Thomas\Desktop\Vox\Vox\bin\Debug\Vox.exe.config
+C:\Users\Thomas\Desktop\Vox\Vox\bin\Debug\Vox.exe
+C:\Users\Thomas\Desktop\Vox\Vox\bin\Debug\Vox.pdb
+C:\Users\Thomas\Desktop\Vox\Vox\obj\Debug\Vox.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\Vox\Vox\obj\Debug\Vox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\Desktop\Vox\Vox\obj\Debug\Vox.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Vox\Vox\obj\Debug\Vox.exe
+C:\Users\Thomas\Desktop\Vox\Vox\obj\Debug\Vox.pdb
